@@ -1,13 +1,20 @@
 Data Validator:
 A program which tries to find errors in a file and writes them into valid_file.csv and invalid_file.csv
 
-o C = invalid data element count (no other errors will also display)
-o I = invalid id
-o N = invalid name
-o E = invalid email
-o P = invalid phone
-o D = invalid date
-o T = invalid time
+C = invalid data element count (no other errors will also display),
+
+I = invalid id,
+
+N = invalid name,
+
+E = invalid email,
+
+ P = invalid phone,
+ 
+ D = invalid date,
+ 
+ T = invalid time,
+ 
 • Invalid data elements count (if so, you will NOT check any other data)
 • Invalid id that isn't an integer
 • Invalid names that are not in a "last name, first name" format
