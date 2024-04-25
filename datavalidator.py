@@ -137,6 +137,8 @@ def swap_name(name):
 
 def convert_date(date):
     """
+    I got help from StackOverflow
+    link:https://stackoverflow.com/questions/502726/converting-date-between-dd-mm-yyyy-and-yyyy-mm-dd
     Function to convert the mm/dd/yyyy format to mm-dd-yyyy
     :param date:
     :return:
