@@ -9,7 +9,7 @@ It detects the errors found in the input.csv file and writes the invalid.csv fil
 ChatGPT Link: https://chat.openai.com/share/52b3aaae-843f-49cc-a36f-8bf57e08cd38 
 '''
 __author__ = 'Hamim Shafin'
-__version__ = '2.0'
+__version__ = '1.0'
 __copyright__ = "No Copyright"
 __github__ = "https://github.com/hamimshafin/DataValidator"
 
